@@ -1,3 +1,5 @@
 gradio
 pypdf
 pydub
+moviepy
+reportlab
