@@ -1,5 +1,5 @@
 gradio
 pypdf
 pydub
-moviepy
+moviepy==1.0.3
 reportlab
