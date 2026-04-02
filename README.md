@@ -1,6 +1,6 @@
 # file_swordmaster
 
-오디오 파일과 PDF 파일을 간편하게 분할하는 스크립트 입니다. 로컬 환경은 물론 Google Colab에서도 실행할 수 있습니다.
+PDF와 오디오 파일을 편집하는 스크립트 입니다. 로컬 환경은 물론 Google Colab에서도 실행할 수 있습니다.
 
 👉 **[웹에서 바로 실행하기 (Hugging Face Space)](https://huggingface.co/spaces/capybaranice/file_swordmaster)**
 
